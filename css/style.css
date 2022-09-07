@@ -22,6 +22,20 @@ a {
   letter-spacing: 0.15em;
 }
 
+a:link {
+  color: #422;
+  font-weight: bold;
+}
+
+a:visited {
+  color: #333;
+}
+
+a:hover,
+a:active {
+  color: #933;
+}
+
 em {
   font-style: normal;
 }
@@ -89,6 +103,10 @@ th {
 .top-time li,
 .top-rank li {
   border-bottom: 1px dotted #ccc;
+}
+
+.top-side a:hover {
+  opacity: .7;
 }
 
 /*-------------------------
