@@ -50,6 +50,10 @@ table {
   width: 100%;
 }
 
+tr:nth-of-type(odd) {
+  background-color: #fbfbfb;
+}
+
 th,
 td {
   border: 1px solid #ccc;
