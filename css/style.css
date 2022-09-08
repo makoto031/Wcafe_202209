@@ -87,6 +87,11 @@ input[type="checkbox"] {
   グローバル
 -------------------------*/
 
+.container {
+  max-width: 980px;
+  margin: auto;
+}
+
 .logo {
   width: 200px;
   height: 65px;
