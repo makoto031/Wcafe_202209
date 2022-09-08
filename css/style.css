@@ -77,6 +77,7 @@ th {
 }
 
 .gl-header {
+  padding-top: 15px;
   background: linear-gradient(
       110deg,
       #000 0%,
@@ -88,6 +89,8 @@ th {
 }
 
 .gl-footer {
+  padding-top: 50px;
+  margin-top: 50px;
   height: 120px;
   background: #211 url("../images/grunge.jpg") 0 top repeat-x;
   color: #ccc;
@@ -141,6 +144,8 @@ th {
 }
 
 .menu {
+  padding: 20px 30px;
+  margin-bottom: 100px;
   border: 1px solid #ccc;
   border-radius: 3px;
   box-shadow: 0 0 3px #ccc;
